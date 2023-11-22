@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./ChatContent.css";
 import Avatar from "../ChatList/Avatar";
 import ChatItem from "./ChatItem.jsx";
-
 const ChatContent = () => {
   // Initial chat messages
   const [chat, setChat] = useState([
