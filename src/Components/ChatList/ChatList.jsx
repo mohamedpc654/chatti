@@ -59,7 +59,7 @@ const ChatList = () => {
     },
     {
       image:
-        "https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-6/311566854_635651014852622_5850571388868441201_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NmD8yUZOuUAAX8KUDV8&_nc_ht=scontent.ftun8-1.fna&oh=00_AfB7igdBx8siOgzeLomg3UM1agyvadwX4PEJEGe256gBwQ&oe=6561E32B",
+        "https://scontent.ftun20-1.fna.fbcdn.net/v/t39.30808-6/363343351_822149765960771_3910396123398463377_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PMReIYp_rhMAX91AmzK&_nc_ht=scontent.ftun20-1.fna&oh=00_AfDTvnsRxfvoykc4FkEGu5dIRXJFdFCj0kfmoenytWh2FQ&oe=6564ADAC",
       id: 10,
       name: "Yacine",
       active: false,
